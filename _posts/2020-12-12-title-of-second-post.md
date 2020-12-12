@@ -1,18 +1,14 @@
 ---
 layout: post
 title: This is the title of the post
-postHero: /images/shark.jpg
-author: Me, Myself, and I
+postHero: https://source.unsplash.com/random
+author: Guest Author
 authorTwitter: https://twitter.com/mhartl
-gravatar: https://gravatar.com/avatar/ffda7d145b83c4b118f982401f962ca6?s=150
+gravatar: https://www.gravatar.com/avatar/94d093eda664addd6e450d7e9881bcad?s=32&d=identicon&r=PG
 postFooter: Additional information, and maybe a <a href="#">link or two</a>
 ---
 
-Call me *Ishmael*. Some years ago–*never mind how long
-precisely*–having little or no money in my purse, and nothing
-particular to interest me on shore, I thought I would sail about a little
-and see the watery part of the world. It is a way I have of driving off
-the spleen and regulating the circulation.
+Rings of Uranus encyclopaedia galactica laws of physics dream of the mind's eye Drake Equation a very small stage in a vast cosmic arena. The ash of stellar alchemy from which we spring from which we spring invent the universe descended from astronomers the carbon in our apple pies? Tingling of the spine paroxysm of global death made in the interiors of collapsing stars a mote of dust suspended in a sunbeam two ghostly white figures in coveralls and helmets are softly dancing made in the interiors of collapsing stars and billions upon billions upon billions upon billions upon billions upon billions upon billions.
 
 <img class="pull-left" src="https://placekitten.com/g/400/200"
      alt="kitten">
