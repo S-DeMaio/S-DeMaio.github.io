@@ -242,11 +242,6 @@ h2 ~ p { /* all 'p' tags after the h2 are now styled the same */
   transform: translate(-50%, 0);
   width: 0;
 }
-.half-hero {
-  background-position: center center;
-  background-size: cover;
-  height: 40vh;
-}
 .hero-home {
   background-image: url(/images/shark.jpg);
   background-position: center top;
@@ -271,6 +266,11 @@ h2 ~ p { /* all 'p' tags after the h2 are now styled the same */
 .hero-content .social-link:hover {
   background-color: #000;
   color: #fff;
+}
+.half-hero {
+  background-position: center center;
+  background-size: cover;
+  height: 40vh;
 }
 
 /* SOCIAL STYLES */
